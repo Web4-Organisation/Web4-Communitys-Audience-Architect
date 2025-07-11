@@ -51,7 +51,7 @@ export function Header({ onNewSegment }: HeaderProps) {
 
   return (
     <header className="sticky top-0 z-10 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex items-center h-16 max-w-screen-2xl">
+      <div className="container flex items-center h-16 max-w-screen-2xl px-4 sm:px-6 lg:px-8">
         <div className="flex items-center gap-3 mr-auto">
           <Users className="w-6 h-6 text-primary" />
           <h1 className="text-xl font-bold">Audience Architect</h1>
