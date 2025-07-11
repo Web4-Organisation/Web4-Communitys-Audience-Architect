@@ -1,9 +1,11 @@
-# Audience Architect AI
+# Web4 Audience Architect AI
 
-Audience Architect AI is a powerful, AI-driven user segmentation tool built with Next.js and Firebase Genkit. It allows marketing analysts, product managers, and data scientists to intuitively create, manage, and analyze user segments from their data. Leverage the power of AI to gain deep insights into your user base and make data-informed decisions.
+Web4 Audience Architect AI is a powerful, AI-driven user segmentation tool built with Next.js and Firebase Genkit. It allows marketing analysts, product managers, and data scientists to intuitively create, manage, and analyze user segments from their data. Leverage the power of AI to gain deep insights into your user base and make data-informed decisions.
 
-![Audience Architect Screenshot](https://placehold.co/1200x600.png?text=Audience+Architect+UI)
-*<p align="center">A screenshot of the main dashboard.</p>*
+<img width="1512" height="559" alt="image" src="https://github.com/user-attachments/assets/532bb04f-2048-4755-b608-a271749d0ccb" />
+<img width="1512" height="570" alt="image" src="https://github.com/user-attachments/assets/3df52348-d0dd-4ddf-936b-d773047ffa4e" />
+
+
 
 ## Features
 
